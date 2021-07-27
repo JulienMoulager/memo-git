@@ -5,3 +5,4 @@ Ajouter petit à petit la farine mélangée à la levure,le sel et le chocolat.
 Beurrer une plaque allant au four et former les cookiessur la plaque. Pour former les cookies, utiliser2 cuillères à
 soupe et faire des petits tas espacés les uns desautres ; ils grandiront à la cuisson.
 Enfourner pour 10 minutes de cuisson.
+Bon appétit!
