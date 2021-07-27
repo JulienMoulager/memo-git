@@ -1,11 +1,12 @@
 
-"wd" permet de trouver un dossier avec son chemin complet
+"pwd" permet de trouver un dossier avec son chemin complet
 double tab ou tab pour savoir ce qu'il ya dans le dosssier.
 
 
 git statut: vérifié l'état des modifications dans un dépot.
-git log: permet de voir les commits que j'avais déjà fait avant.
+git log: permet de voir les commits que j'avais déjà fait avant dans la branche dans laquel je me trouve actuellement
 
+"git add .": permet d'avoir un fichier. 
 créer un nouveau dossier : mkdir
 
 cd: Lister les éléments dans un dossier.
@@ -17,3 +18,15 @@ ls: activez Git pour un répertoire
 
  git push permet d'envoyer la maj du local vers le gitthub.
  git pull permet de modifier le dépot upstream dans le répertoire local.
+
+git checkout: choisir un commit en particulier.
+git switch: permet de changer de branche
+
+
+git branch -D  : permet de suprimer une branche
+
+git log --oneline --decorate --graph: permet d'afficher les branches.
+
+créer un fichier .gitignore pour ignorer un ficher à commit comme les vidéos par exemple.  je doit mettre dans ce fichier les adresses des fichier ou les patternes que je souhaite ignorer.
+Il faut commit le .gitignore pourt qu'il soit pris en compte.
+il doit être à la racine du ripo.
